@@ -30,5 +30,5 @@ In this project I try to generate landscapes using VAEs. The inputs to the model
 ### Usage
 1. Run the notebook, it should be self contained.
 
-Blog post: [music-generation-gru](https://nicovaras.github.io/posts/vae/)
+Blog post: [VAE](https://nicovaras.github.io/posts/vae/)
 
