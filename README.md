@@ -18,3 +18,17 @@ To use this project, follow these steps:
 4. Run the notebook.
 
 5. The generated MIDI files will be saved to `output_midi_file.mid` file.
+
+Blog post: [music-generation-gru](https://nicovaras.github.io/posts/music-generation-gru/)
+
+## VAE art
+
+`VAE_art.ipynb`
+
+In this project I try to generate landscapes using VAEs. The inputs to the model are landscapes from famous artists taken from the Wikiart project. 
+
+### Usage
+1. Run the notebook, it should be self contained.
+
+Blog post: [music-generation-gru](https://nicovaras.github.io/posts/vae/)
+
